@@ -1,0 +1,9 @@
+h1 {
+    color: navy
+}
+
+.name {
+    border: 2px black solid;
+    display: inline-block;
+    background-color: aqua;
+}
