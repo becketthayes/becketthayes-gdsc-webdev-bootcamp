@@ -7,3 +7,9 @@ h1 {
     display: inline-block;
     background-color: aqua;
 }
+
+button {
+    color: chocolate;
+    transform: scale(3);
+    transform-origin: top left;
+}
